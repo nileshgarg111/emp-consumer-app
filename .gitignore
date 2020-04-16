@@ -1,0 +1,7 @@
+*/node_modules
+node_modules
+jsdocs
+coverage
+.sonar
+package-lock.json
+.idea/
